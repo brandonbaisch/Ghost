@@ -43,5 +43,3 @@ bbaisch/Ghost:
   Exec:
     - /usr/bin/nodejs app.js
 
-
-    # Distelli Manifest example
